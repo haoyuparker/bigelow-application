@@ -1,3 +1,0 @@
-# bigelow-application
-
-This 
